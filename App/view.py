@@ -46,14 +46,14 @@ cont = None
 
 def printMenu():
     print("\n")
-    print("*******************************************")
+    print("============================================")
     print("Bienvenido")
     print("1- Inicializar Analizador")
     print("2- Cargar información de crimenes")
     print("3- Consultar crimenes en un rango de fechas")
     print("4- Consultar crimenes por codigo y fecha")
     print("0- Salir")
-    print("*******************************************")
+    print("============================================")
 
 
 """
